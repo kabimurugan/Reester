@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    font-family: "Young Serif", serif;
+    font-weight: 300;
+    font-style: normal;
+    margin: 10px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.section-one p{
+    cursor: pointer;
+}
+
+
+
+.section-two{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+        gap: 20px;
+}
+
+.section-two__image button{
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+.section-two__image{
+
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    border: 2px black solid;
+}
+
+.section-two__image img{
+   
+       width: 200px;
+
+}
+
+.contact-form {
+    background-color: black;
+    color: white;
+    text-align: center;       /* ✅ centers inner text/inputs/buttons */
+    width: 100%;              /* ✅ full width */
+    padding: 20px;            /* ✅ optional, adds spacing */
+    box-sizing: border-box;   /* ✅ ensures padding doesn’t overflow */
+
+}
+
+
+ .contact-form table {
+  margin: 0 auto;               /* 💥 center the table horizontally */
+  text-align: left;          /*   optional: left align inside cells */
+}
+
+.contact-form__button{
+background-color: #d3f400;
+  color: black;
+  padding: 7px 0;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  width: 50%;
+  cursor: pointer;
+}
+
+.contact-form__input{
+    padding: 5px;
+    text-align: left;
+}
+
+.section-two button{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 3px;
+}
