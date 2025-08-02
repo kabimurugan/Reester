@@ -6,7 +6,7 @@ This is a basic personal website created using **HTML** and **CSS**. It contains
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the website](https://kabimurugan.github.io/portfolio-website/) 
+👉 [Click here to view the website](https://kabimurugan.github.io/Reester/) 
 
 ---
 
